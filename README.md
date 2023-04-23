@@ -1,4 +1,4 @@
-##**Inspiration**
+# **Inspiration**
 Climate change is one of the most significant challenges of our time, and the need for action has never been greater. Carbonator was inspired by the urgent need to empower individuals to take action against climate change. By providing access to critical data, tools, and resources, Carbonator aims to help people understand the impact of their actions and make informed decisions that reduce their carbon footprint. Our goal is to make it easy and accessible for everyone to contribute to the fight against climate change, so we can create a more sustainable future for generations to come. We chose the name Carbonator to suggest that our product provides a broad view of climate patterns, much like a telescope provides a view of the cosmos, encouraging users to explore and investigate the facts on their own in addition to incorporating natural language technology to suggest further ways to get involved.
 
 ## **What it does**
